@@ -1,2 +1,2 @@
-# 2do.-parcial
-Practicas de Victor Manuel Hernandez Luna
+# Bots en Python
+Practicas de Victor Manuel Hernandez Luna (segundo parcial)
